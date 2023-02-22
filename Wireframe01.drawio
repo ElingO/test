@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-21T23:57:49.046Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="zefzQAcuMu0mo_wb7vlR" version="20.8.22" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-22T00:09:25.967Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="-7aKwbcfTRLyI-zQuWYC" version="20.8.22" type="github">
   <diagram name="Page-1" id="wcaCd7EeFezKXFBg0lFr">
     <mxGraphModel dx="799" dy="1395" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -7,22 +7,22 @@
         <mxCell id="QAXlqffc3XCzaR2EPbh7-1" value="Search" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="-500" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="QAXlqffc3XCzaR2EPbh7-2" value="Home" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="QAXlqffc3XCzaR2EPbh7-2" value="Home" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#ffff88;" vertex="1" parent="1">
           <mxGeometry x="90" y="-460" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QAXlqffc3XCzaR2EPbh7-3" value="About Us" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="QAXlqffc3XCzaR2EPbh7-3" value="About Us" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#ffff88;" vertex="1" parent="1">
           <mxGeometry x="196" y="-460" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QAXlqffc3XCzaR2EPbh7-4" value="Contact Us" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="QAXlqffc3XCzaR2EPbh7-4" value="Contact Us" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#ffff88;" vertex="1" parent="1">
           <mxGeometry x="307" y="-460" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QAXlqffc3XCzaR2EPbh7-5" value="Deals" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="409" y="-460" width="100" height="30" as="geometry" />
+        <mxCell id="QAXlqffc3XCzaR2EPbh7-5" value="Deals" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#ffff88;" vertex="1" parent="1">
+          <mxGeometry x="420" y="-460" width="89" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QAXlqffc3XCzaR2EPbh7-6" value="Login" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="505" y="-460" width="100" height="30" as="geometry" />
+        <mxCell id="QAXlqffc3XCzaR2EPbh7-6" value="Login" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#ffff88;" vertex="1" parent="1">
+          <mxGeometry x="520" y="-460" width="85" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QAXlqffc3XCzaR2EPbh7-7" value="Create an account" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="QAXlqffc3XCzaR2EPbh7-7" value="Create an account" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#ffff88;" vertex="1" parent="1">
           <mxGeometry x="610" y="-460" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QAXlqffc3XCzaR2EPbh7-9" value="Site Name&lt;br&gt;Tag Line" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -78,6 +78,21 @@
         </mxCell>
         <mxCell id="QAXlqffc3XCzaR2EPbh7-28" value="Shopping Cart" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="115" y="-212" width="135" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QAXlqffc3XCzaR2EPbh7-29" value="Copyright" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="110" y="-60" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QAXlqffc3XCzaR2EPbh7-30" value="About" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="296" y="-60" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QAXlqffc3XCzaR2EPbh7-31" value="Help" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="477" y="-60" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QAXlqffc3XCzaR2EPbh7-32" value="Disclaimer" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="660" y="-60" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QAXlqffc3XCzaR2EPbh7-33" value="Tip Top Shoe Company" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontColor=#0000CC;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="338.5" y="-500" width="207.5" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
