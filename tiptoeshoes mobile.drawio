@@ -1,0 +1,58 @@
+<mxfile host="app.diagrams.net" modified="2023-06-06T05:37:15.885Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="5qEtJb5IBqMO2X47V3W4" version="21.3.7" type="github">
+  <diagram name="Page-1" id="wcaCd7EeFezKXFBg0lFr">
+    <mxGraphModel dx="954" dy="3817" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QAXlqffc3XCzaR2EPbh7-1" value="Search" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="103" y="-638" width="217" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QAXlqffc3XCzaR2EPbh7-2" value="Home" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#ffff88;" parent="1" vertex="1">
+          <mxGeometry x="109" y="-604" width="213" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QAXlqffc3XCzaR2EPbh7-3" value="About Us" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#ffff88;" parent="1" vertex="1">
+          <mxGeometry x="109" y="-564" width="213" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QAXlqffc3XCzaR2EPbh7-4" value="Contact Us" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#ffff88;" parent="1" vertex="1">
+          <mxGeometry x="109" y="-444" width="211" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QAXlqffc3XCzaR2EPbh7-5" value="Deals" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#ffff88;" parent="1" vertex="1">
+          <mxGeometry x="109" y="-404" width="212" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QAXlqffc3XCzaR2EPbh7-9" value="Rotating Banner" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="-363" width="215" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="QAXlqffc3XCzaR2EPbh7-10" value="Logo" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="101" y="-699" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QAXlqffc3XCzaR2EPbh7-27" value="Footer" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#cce5ff;" parent="1" vertex="1">
+          <mxGeometry x="108" y="-157" width="220" height="149" as="geometry" />
+        </mxCell>
+        <mxCell id="QAXlqffc3XCzaR2EPbh7-33" value="Tip Top Shoes" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontColor=#0000CC;fontSize=17;" parent="1" vertex="1">
+          <mxGeometry x="125" y="-727" width="207.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wHX6Z0YlbiptRkJu3iCp-2" value="Products" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#ffff88;" parent="1" vertex="1">
+          <mxGeometry x="109" y="-524" width="213" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wHX6Z0YlbiptRkJu3iCp-3" value="Services" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#ffff88;" parent="1" vertex="1">
+          <mxGeometry x="109" y="-484" width="212" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wHX6Z0YlbiptRkJu3iCp-4" value="Legal and Privacy" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#ffff88;" parent="1" vertex="1">
+          <mxGeometry x="118" y="-153" width="198" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wHX6Z0YlbiptRkJu3iCp-5" value="Return Policy" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#ffff88;" parent="1" vertex="1">
+          <mxGeometry x="118" y="-83" width="197" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wHX6Z0YlbiptRkJu3iCp-6" value="Exchange Policy" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#ffff88;" parent="1" vertex="1">
+          <mxGeometry x="117" y="-118" width="198" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wHX6Z0YlbiptRkJu3iCp-7" value="Delivery Policy" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#ffff88;" parent="1" vertex="1">
+          <mxGeometry x="119" y="-48" width="196" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wHX6Z0YlbiptRkJu3iCp-8" value="Text" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#cce5ff;" parent="1" vertex="1">
+          <mxGeometry x="107" y="-235" width="221" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
